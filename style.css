@@ -1,0 +1,59 @@
+
+@media screen and (min-width: 1900px) {
+    .container {
+      width: 1870px;
+    }
+}  
+
+.imageNav-photo {
+  width: 140px;
+  height:140px;
+
+}
+
+.navbar-brand {
+  list-style-type: none;
+  margin: 20;
+  padding: 10;
+  width: 160px;
+  background-color: lightblue;
+}
+
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 20;
+  padding: 10;
+  width: 450px;
+  background-color: lightblue;
+  color:white;
+
+}
+
+.visualize {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 20;
+  padding: 10;
+  width: 250px;
+  background-color: lightblue;
+  color:white;
+}
+
+.p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px; 
+  display:block;
+}
+
+.modify {
+  display: block;
+    margin-left: 30%;
+    margin-right: 20%;
+    width: 50%;
+}
+.header {
+  width:100%;
+text-align:center;
+}
+
+
+  
